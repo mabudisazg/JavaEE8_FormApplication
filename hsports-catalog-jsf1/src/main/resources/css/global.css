@@ -1,0 +1,20 @@
+@charset "UTF-8";
+body{
+	background-color:red;
+}
+table{
+	border-collapse: collapse;
+}
+
+label{
+	display: inline-block;
+	width: 120px;
+}
+
+form {
+	padding: 20px;
+}
+
+form div {
+	margin: 30px 0px;
+}
